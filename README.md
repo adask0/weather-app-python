@@ -28,8 +28,8 @@ strefa czasowa `Europe/Warsaw`. Odpowiedzi są cache'owane przez
 ## Uruchomienie lokalne
 
 ```bash
-git clone <adres-repo>
-cd <folder-repo>
+git clone https://github.com/adask0/weather-app-python
+cd weather-app-python
 pip install -r requirements.txt
 streamlit run app.py
 ```
